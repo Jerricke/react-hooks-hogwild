@@ -1,4 +1,4 @@
-const hogs = [
+const hogs = [ 
   {
     name: "Babe",
     specialty: "Being incredibly cute",
